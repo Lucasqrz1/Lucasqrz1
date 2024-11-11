@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently studying Computer Science
+## - 🔭 I’m currently studying Computer Science
 - 🌱 I’m currently learning Python
 - 🤔 I’m looking for a Software Development internship 
 - 🤔 I’m looking for help with ...
