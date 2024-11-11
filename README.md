@@ -8,3 +8,4 @@
 - 🌱 Constantly learning Python and other applications.
 - 📫 How to reach me: lucasqrz1@hotmail.com
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucasqrz1)](https://github.com/anuraghazra/github-readme-stats)
