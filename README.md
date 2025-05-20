@@ -45,7 +45,7 @@
 
 <p align="center">
   <a href="https://github.com/Lucasqrz1/100_Days_Of_Code" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100--Days--of--Code-181717?style=for-the-badge&logo=github" alt="100 Days of Code Repo" />
+    <img src="https://img.shields.io/badge/GitHub-100__Days__of__Code-181717?style=for-the-badge&logo=github" alt="100 Days of Code Repo" />
   </a>
 </p>
 
