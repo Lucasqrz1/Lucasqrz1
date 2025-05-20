@@ -41,6 +41,16 @@
 
 ---
 
+### 🚀 Projeto em Destaque: 100 Days of Code
+
+<p align="center">
+  <a href="https://github.com/lucasqrz1/100-days-of-code" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucasqrz1&repo=100-days-of-code&theme=tokyonight" alt="100 Days of Code Repo" />
+  </a>
+</p>
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
