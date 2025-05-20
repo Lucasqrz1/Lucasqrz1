@@ -45,7 +45,7 @@
 
 <p align="center">
   <a href="https://github.com/lucasqrz1/100-days-of-code" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucasqrz1&repo=100-days-of-code&theme=tokyonight" alt="100 Days of Code Repo" />
+    <img src="https://img.shields.io/badge/GitHub-100--Days--of--Code-181717?style=for-the-badge&logo=github" alt="100 Days of Code Repo" />
   </a>
 </p>
 
