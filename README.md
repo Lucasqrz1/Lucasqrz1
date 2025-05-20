@@ -1,59 +1,46 @@
-<h1 align="center">This README is currently on testing.</h1>
 <p align="center">
-  <a href="https://github.com/Lucasqrz1">
-    <img src="https://komarev.com/ghpvc/?username=Lucasqrz1&label=Profile%20views&color=0e75b6&style=flat" alt="Lucasqrz1" />
-  </a>
+  <img src="banner.gif" alt="Banner animado" />
+</p>
+
+<h1 align="center">Olá! Eu sou o Lucas</h1>
+
+<p align="center">
+  Estudante de Ciência da Computação na Estácio de Sá, apaixonado por tecnologia, dados e resolução de problemas com código.
 </p>
 
 ---
 
-## 🚀 About Me
+### 💻 Tecnologias e Ferramentas que uso:
 
-- Brazilian developer passionate about **technology, data science and software engineering**  
-- Currently learning **AI, Python, and full-stack development**
-- Future master's student in **Computer Science / Data Science** in the USA
-
----
-
-## 🧰 Languages and Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,react,nextjs,nodejs,git,github,vscode,figma" />
-</p>
+- **Linguagens**: Python, HTML, CSS, JavaScript  
+- **Ambientes de desenvolvimento**: VSCode, PyCharm  
+- **Ferramentas e bibliotecas**: Git, GitHub, CSV, Pandas, NumPy
 
 ---
 
-## 📈 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lucasqrz1&show_icons=true&theme=tokyonight&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lucasqrz1&show_icons=true&theme=tokyonight" alt="GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lucasqrz1&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucasqrz1&theme=tokyonight" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasqrz1&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasqrz1&layout=compact&theme=tokyonight" alt="Top Langs" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=lucasqrz1&style=flat-square&color=blue" alt="Profile views" />
 </p>
 
 ---
 
-## ✨ Visitors
+### ✉️ Entre em contato
 
-<p align="center">
-  <img src="https://profile-counter.glitch.me/Lucasqrz1/count.svg" alt="Visitor Count" />
-</p>
+Se quiser trocar ideias, aprender juntos ou colaborar em projetos, me chama por aqui:
 
----
-
-## 🔗 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/lucasqrz/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Lucasqrz-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:lucasqrz1@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-lucasqrz1@hotmail.com-red?style=for-the-badge&logo=gmail" />
-  </a>
-</p>
+- [LinkedIn](https://www.linkedin.com/in/Lucasqrz)
+- Email: lucasqrz1@hotmail.com
