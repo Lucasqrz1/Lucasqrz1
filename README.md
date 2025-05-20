@@ -1,10 +1,6 @@
 <h1 align="center">Olá! Eu sou o Lucas 👋</h1>
 
 <p align="center">
-  <img src="banner.gif" alt="Banner do Lucas" />
-</p>
-
-<p align="center">
   Estudante de Ciência da Computação com background em Psicologia, apaixonado por ciência de dados, tecnologia e pela arte de transformar dados em decisões inteligentes.
 </p>
 
