@@ -8,6 +8,10 @@
 </p>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=lucasqrz1&style=flat-square&color=blue" alt="Profile views" />
+</p>
+
+<p align="center">
   <img src="banner.gif" alt="Banner animado" />
 </p>
 
@@ -40,21 +44,13 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=lucasqrz1&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucasqrz1&theme=tokyonight" alt="GitHub streak" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasqrz1&layout=compact&theme=tokyonight" alt="Top Langs" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=lucasqrz1&show_icons=true&theme=tokyonight" alt="GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lucasqrz1&style=flat-square&color=blue" alt="Profile views" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucasqrz1&theme=tokyonight" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasqrz1&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
