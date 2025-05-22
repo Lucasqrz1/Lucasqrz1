@@ -30,4 +30,44 @@
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSV-003366?style=flat&logo=files&logoColor=white" />
+</div>
+
+---
+
+## 🌱 Currently Learning
+
+- SQL (PostgreSQL & MySQL)  
+- Fundamentals of Machine Learning  
+- Applied Statistics with Python  
+- APIs and Web Scraping  
+
+---
+
+## 🔍 Featured Project: 100 Days of Code
+
+<a href="https://github.com/Lucasqrz1/100_Days_Of_Code" target="_blank">
+  <img src="https://img.shields.io/badge/Visit Repository-100_Days_Of_Code-181717?style=for-the-badge&logo=github" />
+</a>
+
+> A hands-on journey of 100 days coding with a focus on data projects, automations, and solving real-world problems.
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lucasqrz1&show_icons=true&theme=tokyonight" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasqrz1&layout=compact&theme=tokyonight" />
+  <img height="160em" src="https://github-readme-streak-stats.demolab.com/?user=lucasqrz1&theme=tokyonight" />
+</div>
+
+---
+
+## 📫 How to Reach Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/lucasqrz/)
+- ✉️ lucasqrz1@hotmail.com
