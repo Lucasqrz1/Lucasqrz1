@@ -62,4 +62,5 @@
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lucasqrz1&show_icons=true&theme=tokyonight" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasqrz1&layout=compact&theme=tokyonight" />
-  <img
+  <img height="160em" src="https://github-readme-streak-stats.demolab.com/?user=lucasqrz1&theme=tokyonight" />
+</div>
