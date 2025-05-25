@@ -1,7 +1,7 @@
 <h1 align="center">Hello! I'm Lucas 👋</h1>
 
 <p align="center">
-  Computer Science student with a background in Psychology, passionate about data science, technology, and the art of transforming data into intelligent decisions.
+  Computer Science student with a background in Psychology, passionate about data science and leveraging technology to transform data into intelligent decisions.
 </p>
 
 <p align="center">
@@ -17,9 +17,9 @@
 
 ## 🚀 About Me
 
-🎓 Graduated in Psychology, currently studying Computer Science  
-📊 Enthusiast in data science, Python, and automations  
-🧠 Interests: machine learning, artificial intelligence, and predictive analytics  
+🎓 Psychology graduate, currently pursuing a degree in Computer Science  
+📊 Data science, Python, and automation enthusiast  
+🧠 Passionate about machine learning, artificial intelligence, and predictive analytics  
 
 ---
 
@@ -31,19 +31,19 @@
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=plotly&logoColor=white" />
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSV-003366?style=flat&logo=files&logoColor=white" />
 </div>
 
 ---
 
 ## 🌱 Currently Learning
 
-- SQL (PostgreSQL & MySQL)  
-- Fundamentals of Machine Learning  
-- Applied Statistics with Python  
-- APIs and Web Scraping  
+- Mastering SQL (PostgreSQL & MySQL)  
+- Exploring machine learning fundamentals  
+- Applying statistics with Python  
+- Developing APIs and web scraping techniques  
 
 ---
 
@@ -62,7 +62,6 @@
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lucasqrz1&show_icons=true&theme=tokyonight" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasqrz1&layout=compact&theme=tokyonight" />
-  <img height="160em" src="https://github-readme-streak-stats.demolab.com/?user=lucasqrz1&theme=tokyonight" />
 </div>
 
 ---
