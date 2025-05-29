@@ -1,7 +1,7 @@
 <h1 align="center">Hello! I'm Lucas 👋</h1>
 
 <p align="center">
-  Computer Science student with a background in Psychology, passionate about data and leveraging technology to extract insights, solve problems, and drive data-informed decisions.
+  Computer Science student with a background in Psychology, passionate about data analytics and leveraging technology to extract insights, solve problems, and drive data-informed decisions.
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 ## 🚀 About Me
 
 🎓 Psychology graduate, currently pursuing a degree in Computer Science  
-📊 Data, Python, and automation enthusiast  
+📊 Data analytics, Python, and automation enthusiast  
 🔎 Focused on transforming raw data into actionable insights through statistical analysis, data visualization, and predictive modeling  
 
 ---
@@ -32,6 +32,7 @@
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=plotly&logoColor=white" />
   <img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" />
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
@@ -41,10 +42,10 @@
 
 ## 🌱 Currently Learning
 
-- SQL for data querying and manipulation  
-- Data visualization best practices
-- Statistical analysis
-- Automation processes  
+- Advanced SQL for data querying and manipulation  
+- Data visualization best practices with Seaborn and Plotly  
+- Statistical analysis and hypothesis testing  
+- Automating data pipelines and ETL processes  
 
 ---
 
