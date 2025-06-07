@@ -49,33 +49,9 @@
 
 ---
 
-## 🔍 Featured Projects:
 ## 📂 Featured Projects
-
-<a href="https://github.com/Lucasqrz1/sql_library_project" target="_blank">
-  <img src="https://img.shields.io/badge/Visit%20Repository-SQL_Library_Project-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>  
-A relational database project that simulates a full library system using PostgreSQL and advanced SQL queries.
-
-<br/><br/>
 
 <a href="https://github.com/Lucasqrz1/data_automation_bot" target="_blank">
   <img src="https://img.shields.io/badge/Visit%20Repository-Data_Automation_Bot-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>  
-A Python automation bot that extracts, transforms, and stores data from external sources, streamlining manual workflows and enabling scheduled analytics.
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lucasqrz1&show_icons=true&theme=tokyonight" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasqrz1&layout=compact&theme=tokyonight" />
-</div>
-
----
-
-## 📫 How to Reach Me
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/lucasqrz/)
-- ✉️ lucasqrz1@hotmail.com
+A Python automation bot that extracts, transforms, and stores data from e
