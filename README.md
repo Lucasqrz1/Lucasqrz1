@@ -54,4 +54,34 @@
 <a href="https://github.com/Lucasqrz1/data_automation_bot" target="_blank">
   <img src="https://img.shields.io/badge/Visit%20Repository-Data_Automation_Bot-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>  
-A Python automation bot that extracts, transforms, and stores data from e
+A Python automation bot that extracts, transforms, and stores data from external sources — streamlining manual workflows and enabling scheduled analytics.
+
+<br/><br/>
+
+<a href="https://github.com/Lucasqrz1/sql_library_project" target="_blank">
+  <img src="https://img.shields.io/badge/Visit%20Repository-SQL_Library_Project-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+</a>  
+A relational database project simulating a full library system using PostgreSQL and SQL — including user management, loans, returns, and inventory control.
+
+<br/><br/>
+
+<a href="https://github.com/Lucasqrz1/100_Days_Of_Code" target="_blank">
+  <img src="https://img.shields.io/badge/Visit%20Repository-100_Days_Of_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>  
+A hands-on learning journey focused on Python, automation, and solving real-world data problems over 100 consecutive days of coding.
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lucasqrz1&show_icons=true&theme=tokyonight" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasqrz1&layout=compact&theme=tokyonight" />
+</div>
+
+---
+
+## 📫 How to Reach Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/lucasqrz/)
+- ✉️ lucasqrz1@hotmail.com
