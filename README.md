@@ -50,17 +50,20 @@
 ---
 
 ## 🔍 Featured Projects:
-<a href="https://github.com/Lucasqrz1/100_Days_Of_Code" target="_blank">
-  <img src="https://img.shields.io/badge/Visit%20Repository-100_Days_Of_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-A hands-on journey of 100 days coding, focusing on data analytics projects, process automation, and solving real-world data problems.
-
-<br/><br/>
+## 📂 Featured Projects
 
 <a href="https://github.com/Lucasqrz1/sql_library_project" target="_blank">
   <img src="https://img.shields.io/badge/Visit%20Repository-SQL_Library_Project-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-A relational database project using SQL to simulate the operations of a library system, including queries for borrowing, returning, user management, and inventory control.
+</a>  
+A relational database project that simulates a full library system using PostgreSQL and advanced SQL queries.
+
+<br/><br/>
+
+<a href="https://github.com/Lucasqrz1/data_automation_bot" target="_blank">
+  <img src="https://img.shields.io/badge/Visit%20Repository-Data_Automation_Bot-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>  
+A Python automation bot that extracts, transforms, and stores data from external sources, streamlining manual workflows and enabling scheduled analytics.
+
 ---
 
 ## 📈 GitHub Stats
