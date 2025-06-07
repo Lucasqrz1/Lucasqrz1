@@ -50,10 +50,16 @@
 ---
 
 ## 🔍 Featured Projects:
-<a href="https://github.com/Lucasqrz1/100_Days_Of_Code" target="_blank"> <img src="https://img.shields.io/badge/Visit Repository-100_Days_Of_Code-181717?style=for-the-badge&logo=github" /> </a>
+<a href="https://github.com/Lucasqrz1/100_Days_Of_Code" target="_blank">
+  <img src="https://img.shields.io/badge/Visit%20Repository-100_Days_Of_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 A hands-on journey of 100 days coding, focusing on data analytics projects, process automation, and solving real-world data problems.
 
-<br/> <a href="https://github.com/Lucasqrz1/sql_library_project" target="_blank"> <img src="https://img.shields.io/badge/Visit Repository-SQL_Library_Project-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" /> </a>
+<br/><br/>
+
+<a href="https://github.com/Lucasqrz1/sql_library_project" target="_blank">
+  <img src="https://img.shields.io/badge/Visit%20Repository-SQL_Library_Project-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 A relational database project using SQL to simulate the operations of a library system, including queries for borrowing, returning, user management, and inventory control.
 ---
 
