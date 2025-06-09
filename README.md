@@ -1,4 +1,4 @@
-<h1 align="center">Hello! I'm Lucas 👋</h1>
+<h1 align="center"> print("Lucas Queiroz")</h1>
 
 <p align="center">
   Computer Science student with a background in Psychology, passionate about data analytics and leveraging technology to extract insights, solve problems, and drive data-informed decisions.
