@@ -1,7 +1,4 @@
-<div align="center">
-  <span style="color: red; font-size: 24px;">Lucas Queiroz</span>
-</div>
-
+# Hello, I'm Lucas!
 
 
 <p align="center">
