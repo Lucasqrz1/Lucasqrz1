@@ -1,6 +1,7 @@
 <div align="center">
-  <h1 style="color: purple;">Lucas Queiroz</h1>
+  <span style="color: red; font-size: 24px;">Lucas Queiroz</span>
 </div>
+
 
 
 <p align="center">
