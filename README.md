@@ -1,4 +1,7 @@
-<h1 align="center>Lucas Queiroz</h1>
+<div align="center">
+  <h1 style="color: purple;">Lucas Queiroz</h1>
+</div>
+
 
 <p align="center">
   Computer Science student with a background in Psychology, passionate about data analytics and leveraging technology to extract insights, solve problems, and drive data-informed decisions.
