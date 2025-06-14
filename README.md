@@ -43,10 +43,9 @@
 
 ## 🌱 Currently Learning
 
-- Advanced SQL for data querying and manipulation  
-- Data visualization best practices with Seaborn and Plotly  
-- Statistical analysis and hypothesis testing  
-- Automating data pipelines and ETL processes  
+- Python
+- SQL
+- Data visualization best practices with Seaborn and Plotly
 
 ---
 
