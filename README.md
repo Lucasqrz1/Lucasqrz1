@@ -9,12 +9,6 @@
   </a>
 </p>
 
-<p align="center">
-  I'm  Lucas, a Computer Science student with a background in Psychology, passionate about data analytics and leveraging technology to extract insights, solve problems, and drive data-informed decisions.
-
-</p>
-
-
 🎓 Psychology graduate, currently pursuing a degree in Computer Science  
 📊 Data analytics, Python, and automation enthusiast  
 🔎 Focused on transforming raw data into actionable insights through statistical analysis, data visualization, and predictive modeling  
