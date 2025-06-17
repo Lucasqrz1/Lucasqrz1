@@ -16,8 +16,6 @@
 
 ---
 
-# 🚀 About Me
-
 🎓 Psychology graduate, currently pursuing a degree in Computer Science  
 📊 Data analytics, Python, and automation enthusiast  
 🔎 Focused on transforming raw data into actionable insights through statistical analysis, data visualization, and predictive modeling  
