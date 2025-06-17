@@ -11,6 +11,7 @@
 
 <p align="center">
   I'm  Lucas, a Computer Science student with a background in Psychology, passionate about data analytics and leveraging technology to extract insights, solve problems, and drive data-informed decisions.
+
 </p>
 
 
