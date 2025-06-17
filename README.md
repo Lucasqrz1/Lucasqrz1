@@ -1,8 +1,8 @@
-## Hello, I'm Lucas!
+# 👨🏽‍💻 About me:
 
 
 <p align="center">
-  Computer Science student with a background in Psychology, passionate about data analytics and leveraging technology to extract insights, solve problems, and drive data-informed decisions.
+  I'm  Lucas, a Computer Science student with a background in Psychology, passionate about data analytics and leveraging technology to extract insights, solve problems, and drive data-informed decisions.
 </p>
 
 <p align="center">
