@@ -16,7 +16,7 @@
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
 🎓 Psychology graduate, currently pursuing a degree in Computer Science  
 📊 Data analytics, Python, and automation enthusiast  
@@ -44,8 +44,13 @@
 ## 🌱 Currently Learning
 
 - Python
-- SQL
-- Data visualization best practices with Seaborn and Plotly
+- Pandas
+- Numpy
+- Matplotlib
+- Plotly
+- Seaborn
+- Object Oriented Programming
+- APIs
 
 ---
 
