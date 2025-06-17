@@ -49,6 +49,7 @@
 - Seaborn
 - Object Oriented Programming
 - APIs
+- Version control
 
 ---
 
