@@ -1,10 +1,5 @@
 # 👨🏽‍💻 About me:
 
-
-<p align="center">
-  I'm  Lucas, a Computer Science student with a background in Psychology, passionate about data analytics and leveraging technology to extract insights, solve problems, and drive data-informed decisions.
-</p>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/lucasqrz/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -14,7 +9,9 @@
   </a>
 </p>
 
----
+<p align="center">
+  I'm  Lucas, a Computer Science student with a background in Psychology, passionate about data analytics and leveraging technology to extract insights, solve problems, and drive data-informed decisions.
+</p>
 
 🎓 Psychology graduate, currently pursuing a degree in Computer Science  
 📊 Data analytics, Python, and automation enthusiast  
