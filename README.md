@@ -43,6 +43,7 @@
 - Object Oriented Programming
 - APIs
 - Version control
+- Data Analysis
 
 ---
 
