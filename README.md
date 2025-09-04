@@ -52,21 +52,39 @@
 <a href="https://github.com/Lucasqrz1/data_automation_bot" target="_blank">
   <img src="https://img.shields.io/badge/Visit%20Repository-Data_Automation_Bot-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>  
-A Python automation bot that extracts, transforms, and stores data from external sources — streamlining manual workflows and enabling scheduled analytics.
+**Data Automation Bot / Bot de Automação de Dados**  
+- 🇺🇸 Automates data extraction and transformation from external sources.  
+  Cuts down manual steps and generates updated reports in seconds.  
+  Demonstrates practical use of ETL pipelines and task scheduling.  
+- 🇧🇷 Automatiza a extração e transformação de dados de fontes externas.  
+  Reduz etapas manuais e gera relatórios atualizados em segundos.  
+  Demonstra aplicação prática de pipelines ETL e agendamento de tarefas.  
 
-<br/><br/>
+---
 
 <a href="https://github.com/Lucasqrz1/sql_library_project" target="_blank">
   <img src="https://img.shields.io/badge/Visit%20Repository-SQL_Library_Project-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </a>  
-A relational database project simulating a full library system using PostgreSQL and SQL — including user management, loans, returns, and inventory control.
+**SQL Library Project / Projeto de Biblioteca em SQL**  
+- 🇺🇸 Relational database to manage books, loans, and users.  
+  Includes optimized queries for inventory and usage reports.  
+  Simulates a real library system, showcasing database modeling and SQL skills.  
+- 🇧🇷 Banco de dados relacional para gerenciar livros, empréstimos e usuários.  
+  Inclui queries otimizadas para inventário e relatórios de uso.  
+  Simula um sistema real de biblioteca, destacando modelagem e habilidades em SQL.  
 
-<br/><br/>
+---
 
 <a href="https://github.com/Lucasqrz1/100_Days_Of_Code" target="_blank">
   <img src="https://img.shields.io/badge/Visit%20Repository-100_Days_Of_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>  
-A hands-on learning journey focused on Python, automation, and solving real-world data problems over 100 consecutive days of coding.
+**100 Days of Code / 100 Dias de Código**  
+- 🇺🇸 Practical journey solving challenges with Python and data libraries.  
+  Includes automation, exploratory analysis, and data visualization projects.  
+  Demonstrates consistency and continuous growth in programming and data science.  
+- 🇧🇷 Jornada prática resolvendo desafios com Python e bibliotecas de dados.  
+  Inclui projetos de automação, análise exploratória e visualização de dados.  
+  Demonstra consistência e evolução contínua em programação e ciência de dados.
 
 ---
 
