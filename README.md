@@ -49,16 +49,18 @@
 
 ## 📂 Featured Projects
 
-<a href="https://github.com/Lucasqrz1/data_automation_bot" target="_blank">
-  <img src="https://img.shields.io/badge/Visit%20Repository-Data_Automation_Bot-181717?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://github.com/Lucasqrz1/Space_race_analysis" target="_blank">
+  <img src="https://img.shields.io/badge/Visit%20Repository-Space_Race_Analysis-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>  
-**Data Automation Bot / Bot de Automação de Dados**  
-- 🇺🇸 Automates data extraction and transformation from external sources.  
-  Cuts down manual steps and generates updated reports in seconds.  
-  Demonstrates practical use of ETL pipelines and task scheduling.  
-- 🇧🇷 Automatiza a extração e transformação de dados de fontes externas.  
-  Reduz etapas manuais e gera relatórios atualizados em segundos.  
-  Demonstra aplicação prática de pipelines ETL e agendamento de tarefas.  
+
+**Space Race Analysis / Análise da Corrida Espacial**  
+- 🇺🇸 Basic exploratory data analysis on historical Space Race missions.  
+  Includes data cleaning, organization, and visualization in Jupyter Notebook.  
+  Highlights key trends in launches and mission outcomes.  
+
+- 🇧🇷 Análise exploratória básica de dados sobre missões da Corrida Espacial.  
+  Inclui limpeza, organização e visualização de dados no Jupyter Notebook.  
+  Destaca principais tendências em lançamentos e resultados de missões.  
 
 ---
 
