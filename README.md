@@ -52,12 +52,10 @@
 <a href="https://github.com/Lucasqrz1/Space_race_analysis" target="_blank">
   <img src="https://img.shields.io/badge/Visit%20Repository-Space_Race_Analysis-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>  
-
 **Space Race Analysis / Análise da Corrida Espacial**  
 - 🇺🇸 Basic exploratory data analysis on historical Space Race missions.  
   Includes data cleaning, organization, and visualization in Jupyter Notebook.  
   Highlights key trends in launches and mission outcomes.  
-
 - 🇧🇷 Análise exploratória básica de dados sobre missões da Corrida Espacial.  
   Inclui limpeza, organização e visualização de dados no Jupyter Notebook.  
   Destaca principais tendências em lançamentos e resultados de missões.  
@@ -86,9 +84,6 @@
   Demonstrates consistency and continuous growth in programming and data science.  
 - 🇧🇷 Jornada prática resolvendo desafios com Python e bibliotecas de dados.  
   Inclui projetos de automação, análise exploratória e visualização de dados.  
-  Demonstra consistência e evolução contínua em programação e ciência de dados.
-
----
 
 ## 📈 GitHub Stats
 
