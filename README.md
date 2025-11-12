@@ -62,28 +62,12 @@
 
 ---
 
-<a href="https://github.com/Lucasqrz1/sql_library_project" target="_blank">
-  <img src="https://img.shields.io/badge/Visit%20Repository-SQL_Library_Project-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<a href="https://github.com/Lucasqrz1/Customer_Churn_Analysis" target="_blank">
+  <img src="https://img.shields.io/badge/Visit%20Repository-Customer_Churn_Analysis-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>  
-**SQL Library Project / Projeto de Biblioteca em SQL**  
-- 🇺🇸 Relational database to manage books, loans, and users.  
-  Includes optimized queries for inventory and usage reports.  
-  Simulates a real library system, showcasing database modeling and SQL skills.  
-- 🇧🇷 Banco de dados relacional para gerenciar livros, empréstimos e usuários.  
-  Inclui queries otimizadas para inventário e relatórios de uso.  
-  Simula um sistema real de biblioteca, destacando modelagem e habilidades em SQL.  
-
----
-
-<a href="https://github.com/Lucasqrz1/100_Days_Of_Code" target="_blank">
-  <img src="https://img.shields.io/badge/Visit%20Repository-100_Days_Of_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>  
-**100 Days of Code / 100 Dias de Código**  
-- 🇺🇸 Practical journey solving challenges with Python and data libraries.  
-  Includes automation, exploratory analysis, and data visualization projects.  
-  Demonstrates consistency and continuous growth in programming and data science.  
-- 🇧🇷 Jornada prática resolvendo desafios com Python e bibliotecas de dados.  
-  Inclui projetos de automação, análise exploratória e visualização de dados.  
+Telco Customer Churn Analysis / Análise de Churn de Clientes de Telecomunicações
+🇺🇸 Exploratory data analysis focused on customer churn behavior in a telecom company. Includes data cleaning, preparation, and visualization in Jupyter Notebook. Identifies key factors related to cancellations such as contract type, payment method, and customer tenure.
+🇧🇷 Análise exploratória de dados sobre o comportamento de cancelamento de clientes em uma empresa de telecomunicações. Inclui limpeza, preparação e visualização de dados no Jupyter Notebook. Identifica fatores principais relacionados ao churn, como tipo de contrato, método de pagamento e tempo de permanência.
 
 ## 📈 GitHub Stats
 
