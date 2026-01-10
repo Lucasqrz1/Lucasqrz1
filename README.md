@@ -32,6 +32,22 @@
 
 ---
 
+## 📂 Featured Projects
+
+<a href="https://github.com/Lucasqrz1/online_retail/blob/main/notebooks/online_retail.ipynb" target="_blank">
+  <img src="https://img.shields.io/badge/Visit%20Repository-Online_Retail_Analysis-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>   
+Exploratory data analysis of a real-world retail transactions dataset, focusing on data cleaning, time-series revenue trends, customer behavior, product performance, and geographic distribution using Python and pandas.  
+
+---
+
+<a href="https://github.com/Lucasqrz1/Customer_Churn_Analysis" target="_blank">
+  <img src="https://img.shields.io/badge/Visit%20Repository-Customer_Churn_Analysis-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>  
+Exploratory data analysis focused on customer churn behavior in a telecom company. Includes data cleaning, preparation, and visualization in Jupyter Notebook. Identifies key factors related to cancellations such as contract type, payment method, and customer tenure.
+
+---
+
 ## 🌱 Currently Learning
 
 - Python
@@ -45,38 +61,14 @@
 - Version control
 - Data Analysis
 
----
-
-## 📂 Featured Projects
-
-<a href="https://github.com/Lucasqrz1/Customer_Churn_Analysis" target="_blank">
-  <img src="https://img.shields.io/badge/Visit%20Repository-Customer_Churn_Analysis-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>  
-Telco Customer Churn Analysis / Análise de Churn de Clientes de Telecomunicações
-🇺🇸 Exploratory data analysis focused on customer churn behavior in a telecom company. Includes data cleaning, preparation, and visualization in Jupyter Notebook. Identifies key factors related to cancellations such as contract type, payment method, and customer tenure.
-🇧🇷 Análise exploratória de dados sobre o comportamento de cancelamento de clientes em uma empresa de telecomunicações. Inclui limpeza, preparação e visualização de dados no Jupyter Notebook. Identifica fatores principais relacionados ao churn, como tipo de contrato, método de pagamento e tempo de permanência.
-
----
-
-
-<a href="https://github.com/Lucasqrz1/Space_race_analysis" target="_blank">
-  <img src="https://img.shields.io/badge/Visit%20Repository-Space_Race_Analysis-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>  
-**Space Race Analysis / Análise da Corrida Espacial**  
-- 🇺🇸 Basic exploratory data analysis on historical Space Race missions.  
-  Includes data cleaning, organization, and visualization in Jupyter Notebook.  
-  Highlights key trends in launches and mission outcomes.  
-- 🇧🇷 Análise exploratória básica de dados sobre missões da Corrida Espacial.  
-  Inclui limpeza, organização e visualização de dados no Jupyter Notebook.  
-  Destaca principais tendências em lançamentos e resultados de missões.  
-
+<!--
 ## 📈 GitHub Stats
 
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lucasqrz1&show_icons=true&theme=tokyonight" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasqrz1&layout=compact&theme=tokyonight" />
 </div>
-
+-->
 ---
 
 ## 📫 How to Reach Me
