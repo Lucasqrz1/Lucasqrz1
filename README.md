@@ -9,9 +9,9 @@
 
 # 👨🏽‍💻 About me:
 
-🎓 Psychology graduate transitioning into Data Science
-📊 Focused on data analytics, Python, SQL, and automation
-🔎 Applying statistical analysis, data visualization, and predictive modeling to answer real-world analytical problems
+<p>🎓 Psychology graduate transitioning into Data Science</p>
+<p>📊 Focused on data analytics, Python, SQL, and automation</p>
+<p>🔎 Applying statistical analysis, data visualization, and predictive modeling to answer real-world analytical problems</p>
 
 ---
 
