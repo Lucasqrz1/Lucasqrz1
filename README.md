@@ -34,17 +34,17 @@
 
 ## 📂 Featured Projects
 
+<a href="https://github.com/Lucasqrz1/us_extreme_weather_prediction" target="_blank">
+  <img src="https://img.shields.io/badge/Visit%20Repository-US_Extreme_Weather_Prediction-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>  
+Predictive analysis of extreme weather events trends in the United States using data from National Oceanic and Atmospheric Administration.
+
+---
+
 <a href="https://github.com/Lucasqrz1/online_retail/blob/main/notebooks/online_retail.ipynb" target="_blank">
   <img src="https://img.shields.io/badge/Visit%20Repository-Online_Retail_Analysis-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>   
 Exploratory data analysis of a real-world retail transactions dataset, focusing on data cleaning, time-series revenue trends, customer behavior, product performance, and geographic distribution using Python and pandas.  
-
----
-
-<a href="https://github.com/Lucasqrz1/Customer_Churn_Analysis" target="_blank">
-  <img src="https://img.shields.io/badge/Visit%20Repository-Customer_Churn_Analysis-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>  
-Exploratory data analysis focused on customer churn behavior in a telecom company. Includes data cleaning, preparation, and visualization in Jupyter Notebook. Identifies key factors related to cancellations such as contract type, payment method, and customer tenure.
 
 ---
 
